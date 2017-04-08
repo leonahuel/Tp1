@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1473186718 source:c:\users\los pi\desktop\tp n1\tp_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473186690 c:\users\los pi\desktop\tp n1\tp_laboratorio_1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1473188445 source:c:\users\los pi\desktop\tp n1\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473190318 source:c:\users\usuario\desktop\tp_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473190290 c:\users\usuario\desktop\tp_laboratorio_1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1473192487 source:c:\users\usuario\desktop\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1476552772 source:c:\users\usuario\desktop\leo nahuel\tp_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1476552672 c:\users\usuario\desktop\leo nahuel\tp_laboratorio_1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1477947896 source:c:\users\usuario\desktop\leo nahuel\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1478908665 source:c:\users\usuario\desktop\trabajos practicos echos\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1476556272 c:\users\usuario\desktop\trabajos practicos echos\tp_laboratorio_1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1478551312 source:c:\users\usuario\desktop\trabajos practicos echos\tp_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
