@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1493945500 source:c:\users\alumno\desktop\primer parcial leo\leo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Leo.h"
+
+1493944816 c:\users\alumno\desktop\primer parcial leo\leo.h
+
